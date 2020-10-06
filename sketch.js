@@ -46,7 +46,7 @@ function draw() {
   }
  if(mousePressedOver(go)){
    text("click this text",300,480);
-   link = createA("https://navithaejigeorge.github.io/Capstone/","CLICK THIS TEXT TO PUT NAIL POLISH ");
+   link = createA("https://navithaejigeorge.github.io/nail-game/","CLICK THIS TEXT TO PUT NAIL POLISH ");
    link.position  (200,200)
  }
   drawSprites();
